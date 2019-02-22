@@ -11,6 +11,8 @@ public class HelloIntelliJ {
         System.out.println("The worst thing is: it's not even a violine. It's a bass!");
         System.out.println("I always mix those two up ...");
         System.out.println("And I am a professional musician!!!");
+        System.out.println("When I was young I wanted to be a bricklayer ... ");
+        System.out.println("But my father didn't think I was very talentented at bricklaying.");
 
     }
 
