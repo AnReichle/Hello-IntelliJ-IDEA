@@ -17,6 +17,9 @@ public class HelloIntelliJ {
         System.out.println("dsghdfi");
         System.out.println("cvxhjdfvbjkdfvbjkdfv");
 
+        System.out.printf("rhjsbgrfdjgbfdjg");
+        System.out.printf("fgjehrdbfgjbvdrt");
+        System.out.printf("rfbrgbrgbgfjbfj");
     }
 
 }
