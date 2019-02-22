@@ -14,12 +14,16 @@ public class HelloIntelliJ {
         System.out.println("When I was young I wanted to be a bricklayer ... ");
         System.out.println("But my father didn't think I was very talentented at bricklaying.");
 
+        System.out.println("Let me eat this cookie.");
+
         System.out.println("dsghdfi");
         System.out.println("cvxhjdfvbjkdfvbjkdfv");
 
-        System.out.printf("rhjsbgrfdjgbfdjg");
-        System.out.printf("fgjehrdbfgjbvdrt");
-        System.out.printf("rfbrgbrgbgfjbfj");
+        System.out.println("I think I'll have another one.");
+
+        System.out.println("rhjsbgrfdjgbfdjg");
+        System.out.println("fgjehrdbfgjbvdrt");
+        System.out.println("rfbrgbrgbgfjbfj");
     }
 
 }
